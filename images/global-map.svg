@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1905" height="700" viewBox="0 0 1905 700">
+  <rect width="1905" height="700" fill="#d5dde4"/>
+  <!-- stylized continents -->
+  <g fill="#aebfcd">
+    <path d="M180 120 q120 -40 220 0 q80 30 60 110 q-15 60 -90 70 q-40 60 -100 40 q-70 -20 -80 -90 q-60 -50 -10 -130z"/>
+    <path d="M330 360 q70 -10 90 50 q25 70 -10 140 q-30 60 -70 30 q-40 -40 -40 -110 q-10 -80 30 -110z"/>
+    <path d="M760 100 q90 -50 170 -10 q60 25 50 80 q-40 20 -90 15 q-60 30 -110 5 q-50 -40 -20 -90z"/>
+    <path d="M820 240 q80 -20 130 30 q50 50 30 130 q-20 80 -90 90 q-60 5 -90 -60 q-30 -70 -10 -130 q10 -45 30 -60z"/>
+    <path d="M1010 120 q160 -60 330 -20 q120 30 140 110 q15 70 -50 110 q-80 45 -170 25 q-90 -15 -150 -70 q-80 -15 -110 -75 q-20 -55 10 -80z"/>
+    <path d="M1180 350 q70 -15 110 40 q35 55 5 115 q-30 55 -85 40 q-50 -20 -60 -85 q-15 -75 30 -110z"/>
+    <path d="M1500 430 q80 -30 140 10 q50 38 25 95 q-30 60 -100 50 q-65 -10 -80 -70 q-15 -55 15 -85z"/>
+  </g>
+  <!-- trade route arcs -->
+  <g fill="none" stroke="#196bbf" stroke-width="3" stroke-dasharray="10 8" opacity="0.8">
+    <path d="M1130 290 Q 700 60 320 200"/>
+    <path d="M1130 290 Q 950 160 880 160"/>
+    <path d="M1130 290 Q 1000 450 420 470"/>
+    <path d="M1130 290 Q 1350 480 1560 500"/>
+    <path d="M1130 290 Q 1250 200 1300 230"/>
+    <path d="M1130 290 Q 1000 320 900 330"/>
+  </g>
+  <!-- hub pins -->
+  <g>
+    <g transform="translate(1130,290)">
+      <circle r="26" fill="#196bbf" opacity="0.25"/>
+      <circle r="14" fill="#196bbf" opacity="0.5"/>
+      <circle r="7" fill="#d32f2f"/>
+    </g>
+    <circle cx="320" cy="200" r="8" fill="#196bbf"/>
+    <circle cx="880" cy="160" r="8" fill="#196bbf"/>
+    <circle cx="420" cy="470" r="8" fill="#196bbf"/>
+    <circle cx="1560" cy="500" r="8" fill="#196bbf"/>
+    <circle cx="1300" cy="230" r="8" fill="#196bbf"/>
+    <circle cx="900" cy="330" r="8" fill="#196bbf"/>
+  </g>
+</svg>

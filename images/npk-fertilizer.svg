@@ -1,0 +1,13 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7a8f4f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5a6f3f;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#gradient5)"/>
+  <rect x="120" y="100" width="160" height="120" fill="#a0b574" opacity="0.8" rx="10"/>
+  <text x="200" y="165" font-size="28" font-weight="bold" fill="#f5f1ed" text-anchor="middle">NPK</text>
+  <text x="200" y="240" font-size="24" font-weight="bold" fill="#f5f1ed" text-anchor="middle">Fertilizer</text>
+  <text x="200" y="275" font-size="14" fill="#d4d4d4" text-anchor="middle">Balanced Nutrients</text>
+</svg>

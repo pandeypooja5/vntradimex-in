@@ -1,0 +1,19 @@
+<svg viewBox="0 0 300 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Red background circle for the icon -->
+  <circle cx="40" cy="50" r="38" fill="#c41e3a"/>
+
+  <!-- Globe icon -->
+  <circle cx="40" cy="50" r="30" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 15 50 Q 40 40 65 50 Q 40 60 15 50" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+  <ellipse cx="40" cy="50" rx="30" ry="8" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+
+  <!-- Trade arrows -->
+  <path d="M 80 35 L 95 35 L 92 32 M 92 38 L 95 35 L 92 32" fill="none" stroke="#c41e3a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 95 65 L 80 65 L 83 68 M 83 62 L 80 65 L 83 68" fill="none" stroke="#c41e3a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Company name -->
+  <text x="110" y="45" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#c41e3a">vntradimex</text>
+
+  <!-- Tagline -->
+  <text x="110" y="65" font-family="Arial, sans-serif" font-size="10" fill="#666666">Your Strategic Import & Export Partners</text>
+</svg>
