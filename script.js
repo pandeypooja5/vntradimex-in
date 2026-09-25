@@ -72,7 +72,7 @@ function submitEnquiry(data) {
         product: data.product,
         quantity: data.quantity || 'Not specified',
         message: data.message,
-        to_email: 'tradewithtrust8741@gmail.com'
+        to_email: 'VNT.INDIA.KUMAR@VNTRADIMEX.IN'
     };
 
     // Show loading message
